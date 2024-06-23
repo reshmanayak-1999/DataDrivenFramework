@@ -1,0 +1,2 @@
+[10312:21488:0613/170919.992:VERBOSE1:installer.cc(386)] "C:\Users\Reshma\eclipse-workspace\DataDrivenFramework\src\test\resources\executables\ChromeSetup.exe" --port=7522 --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={F3CAB977-BF22-F629-B1C4-B9D9234DDFD5}&lang=en&browser=4&usagestats=0&appname=Google%20Chrome&needsadmin=prefers --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[10312:21488:0613/172018.668:VERBOSE1:installer.cc(491)] Metainstaller WMain returned: 0, Windows error: 0
